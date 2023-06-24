@@ -3,7 +3,7 @@ This is a simple application built with NodeJS that uses the weatherstack.com AP
 
 ## Live Preview
 
-See the app live at [https://weather-app-dk.onrender.com/](https://weather-app-dk.onrender.com/)
+See the app live at [https://weather-app-dk.onrender.com](https://weather-app-dk.onrender.com/)
 
 ## Installation
 
